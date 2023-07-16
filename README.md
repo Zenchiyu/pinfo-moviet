@@ -5,11 +5,11 @@ This project is for the course projets informatics (pinfo) given in third year b
 
 Members:
 - Project manager: Mohsen Hassan Naeini
-- Backend: Ethan Icet
-- Backend: Stéphane Liem Nguyen ([crystalzenchi](https://github.com/crystalzenchi) and [Zenchiyu](https://github.com/crystalzenchi))
-- Auth & Kubernetes: Erwan Don
-- Frontend: Raphaël Maggio-Aprile
-- Kubernetes: Fabrice Hategekimana
+- Backend: [Ethan Icet](https://github.com/Ethan-Icet)
+- Backend: [Stéphane Liem Nguyen](https://github.com/Zenchiyu/) (is also [crystalzenchi](https://github.com/crystalzenchi))
+- Auth & Kubernetes: [Erwan Don](https://github.com/Shamaii)
+- Frontend: [Raphaël Maggio-Aprile](https://github.com/R-Maggio)
+- Kubernetes: [Fabrice Hategekimana](https://github.com/fabriceHategekimana)
 
 
 We created a website in which we could join groups and vote for movies. Even though the recommendation or voting part was handcrafted and very basic, the goal of this project was to discover principles.
