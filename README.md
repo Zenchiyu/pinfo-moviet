@@ -4,12 +4,12 @@
 This project is for the course projets informatics (pinfo) given in third year bachelor of computer science at University of Geneva. This project was imported from the project that was originally in [Fabrice Hategekimana's github](https://github.com/fabriceHategekimana/projet_informatique-moviet).
 
 Members:
-- Mohsen Hassan Naeini
-- Ethan Icet
-- Stéphane Liem Nguyen ([crystalzenchi](https://github.com/crystalzenchi) and [Zenchiyu](https://github.com/crystalzenchi))
-- Erwan Don
-- Raphaël Maggio-Aprile
-- Fabrice Hategekimana
+- Project manager: Mohsen Hassan Naeini
+- Backend: Ethan Icet
+- Backend: Stéphane Liem Nguyen ([crystalzenchi](https://github.com/crystalzenchi) and [Zenchiyu](https://github.com/crystalzenchi))
+- Auth & Kubernetes: Erwan Don
+- Frontend: Raphaël Maggio-Aprile
+- Kubernetes: Fabrice Hategekimana
 
 
 We created a website in which we could join groups and vote for movies. Even though the recommendation or voting part was handcrafted and very basic, the goal of this project was to discover principles.
