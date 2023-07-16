@@ -1,8 +1,7 @@
 [![Build Status](https://travis-ci.com/fabriceHategekimana/projet_informatique-moviet.svg?branch=develop)](https://travis-ci.com/fabriceHategekimana/projet_informatique-moviet)  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fabriceHategekimana_projet_informatique-moviet&metric=alert_status)](https://sonarcloud.io/dashboard?id=fabriceHategekimana_projet_informatique-moviet)
 
 # Moviet project
-This project is for the course projets informatics (pinfo) given in third year bachelor of computer science at University of Geneva.
-
+This project is for the course projets informatics (pinfo) given in third year bachelor of computer science at University of Geneva. I've imported the project that was originally in [Fabrice Hategekimana's github](https://github.com/fabriceHategekimana/projet_informatique-moviet).
 Members:
 - Mohsen Hassan Naeini
 - Ethan Icet
@@ -13,6 +12,11 @@ Members:
 
 
 We created a website in which we could join groups and vote for movies. Even though the recommendation or voting part was handcrafted and very basic, the goal of this project was to discover principles.
+
+### Useful links:
+- Original project's [wiki](https://github.com/fabriceHategekimana/projet_informatique-moviet/wiki)
+- [Project's template](https://github.com/crystalzenchi/microservices) forked from https://github.com/hostettler/microservices
+
 
 ---
 # Run locally using scripts
