@@ -3,13 +3,13 @@
 # Moviet project
 The project for projets informatics (pinfo)
 
-Member:
-- Mohsen
-- Ethan
-- Stéphane
-- Erwan
-- Raphaël
-- Fabrice
+Members:
+- Mohsen Hassan Naeini
+- Ethan Icet
+- Stéphane Liem Nguyen
+- Erwan Don
+- Raphaël Maggio-Aprile
+- Fabrice Hategekimana
 
 ---
 # Run locally using scripts
