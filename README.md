@@ -6,7 +6,7 @@ The project for projets informatics (pinfo)
 Members:
 - Mohsen Hassan Naeini
 - Ethan Icet
-- Stéphane Liem Nguyen
+- Stéphane Liem Nguyen ([crystalzenchi](https://github.com/crystalzenchi) and [Zenchiyu](https://github.com/crystalzenchi))
 - Erwan Don
 - Raphaël Maggio-Aprile
 - Fabrice Hategekimana
