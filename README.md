@@ -1,7 +1,8 @@
 [![Build Status](https://travis-ci.com/fabriceHategekimana/projet_informatique-moviet.svg?branch=develop)](https://travis-ci.com/fabriceHategekimana/projet_informatique-moviet)  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fabriceHategekimana_projet_informatique-moviet&metric=alert_status)](https://sonarcloud.io/dashboard?id=fabriceHategekimana_projet_informatique-moviet)
 
 # Moviet project
-This project is for the course projets informatics (pinfo) given in third year bachelor of computer science at University of Geneva. I've imported the project that was originally in [Fabrice Hategekimana's github](https://github.com/fabriceHategekimana/projet_informatique-moviet).
+This project is for the course projets informatics (pinfo) given in third year bachelor of computer science at University of Geneva. This project was imported from the project that was originally in [Fabrice Hategekimana's github](https://github.com/fabriceHategekimana/projet_informatique-moviet).
+
 Members:
 - Mohsen Hassan Naeini
 - Ethan Icet
