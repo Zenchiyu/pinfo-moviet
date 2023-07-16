@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/fabriceHategekimana/projet_informatique-moviet.svg?branch=develop)](https://travis-ci.com/fabriceHategekimana/projet_informatique-moviet)  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fabriceHategekimana_projet_informatique-moviet&metric=alert_status)](https://sonarcloud.io/dashboard?id=fabriceHategekimana_projet_informatique-moviet)
 
 # Moviet project
-The project for projets informatics (pinfo)
+This project is for the course projets informatics (pinfo) given in third year bachelor of computer science at University of Geneva.
 
 Members:
 - Mohsen Hassan Naeini
@@ -10,6 +10,9 @@ Members:
 - Erwan Don
 - Raphaël Maggio-Aprile
 - Fabrice Hategekimana
+
+
+We created a website in which we could join groups and vote for movies. Even though the recommendation or voting part was handcrafted and very basic, the goal of this project was to discover principles.
 
 ---
 # Run locally using scripts
